@@ -42,14 +42,98 @@ Grading
 
 Grading differs for undergraduate and graduate students in the course.
 
-| ACTIVITIES | PERCENTAGES  {{< br >}}(UNDERGRADUATE) | PERCENTAGES  {{< br >}}(GRADUATE) |
-| --- | --- | --- |
-| Quiz 1 | 30% | 25% |
-| Quiz 2 | 30% | 25% |
-| Projects | 25% | 15% |
-| Problem sets | 10% | 5% |
-| Daily quizzes | 5% | 5% |
-| Final project | n/a | 25% (Oral: 10%; Written: 15%) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES  
+(UNDERGRADUATE)
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES  
+(GRADUATE)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Projects
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+n/a
+{{< tdclose >}}
+{{< tdopen >}}
+25% (Oral: 10%; Written: 15%)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Academic Honesty Policy
 -----------------------

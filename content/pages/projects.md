@@ -6,11 +6,48 @@ uid: f90c499b-bb82-f98c-692f-963a90d0f185
 
 The project assignments are to be completed by both undergraduate and graduate students. These assignments are collaborative efforts with up to three people per team.
 
-| TOPICS | PROJECTS |
-| --- | --- |
-| Project 1: Driving while distracted | ([PDF]({{< baseurl >}}/resources/mit16_400f11_proj01)) |
-| Project 2: Visual vs. auditory reaction times | ([PDF]({{< baseurl >}}/resources/mit16_400f11_proj02)) |
-| Project 3: Command vs. situation displays | (unavailable to OCW users) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 1: Driving while distracted
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit16_400f11_proj01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 2: Visual vs. auditory reaction times
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit16_400f11_proj02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 3: Command vs. situation displays
+{{< tdclose >}}
+{{< tdopen >}}
+(unavailable to OCW users)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Team Project
 ------------------

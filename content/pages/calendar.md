@@ -4,29 +4,297 @@ title: Calendar
 uid: a9712a08-ba27-795c-ea8e-297d84468c60
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and vision I | &nbsp; |
-| 2 | Vision II | &nbsp; |
-| 3 | Space bioastronautics | Formation of graduate project teams |
-| 4 | Research methods I | &nbsp; |
-| 5 | Research methods II | &nbsp; |
-| 6 | Vestibular/spatial disorientation | Statistics problem set due |
-| 7 | Displays | &nbsp; |
-| 8 | Space human factors | Graduate project topics due |
-| 9 | Manual control I | Project 1 due: Divided attention |
-| 10 | Manual control II | &nbsp; |
-| 11 | PIO and Cooper Harper | Manual control problem set due |
-| 12 | Handling qualities | &nbsp; |
-| 13 | Space physiology | &nbsp; |
-| {{< td-colspan 3 >}}**Quiz 1**{{< /td-colspan >}} |||
-| 14 | Auditory | Project 2 due: Visual vs. auditory reaction time |
-| 15 | Automaton, situation, awareness | &nbsp; |
-| 16 | Flight deck automation working group | &nbsp; |
-| 17 | Decision making; FAA regulations | &nbsp; |
-| 18 | Attention/workload | &nbsp; |
-| 19 | Fatigue/circadian rhythms | &nbsp; |
-| 20 | Anthropometry/environmental ergonomics | Project 3 due: Flight simulation |
-| 21 | Response selection and control of movement | &nbsp; |
-| 22 | Automobile HF | Graduate final projects due |
-| {{< td-colspan 3 >}}**Quiz 2**{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and vision I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Vision II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Space bioastronautics
+{{< tdclose >}}
+{{< tdopen >}}
+Formation of graduate project teams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Research methods I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Research methods II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Vestibular/spatial disorientation
+{{< tdclose >}}
+{{< tdopen >}}
+Statistics problem set due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Displays
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Space human factors
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate project topics due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Manual control I
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 due: Divided attention
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Manual control II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+PIO and Cooper Harper
+{{< tdclose >}}
+{{< tdopen >}}
+Manual control problem set due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Handling qualities
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Space physiology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Quiz 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Auditory
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 due: Visual vs. auditory reaction time
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Automaton, situation, awareness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Flight deck automation working group
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Decision making; FAA regulations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Attention/workload
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Fatigue/circadian rhythms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Anthropometry/environmental ergonomics
+{{< tdclose >}}
+{{< tdopen >}}
+Project 3 due: Flight simulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Response selection and control of movement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Automobile HF
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate final projects due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Quiz 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
